@@ -9,7 +9,7 @@ This game was programmed in C++ using [SFML](https://www.sfml-dev.org/index.php)
 
 ## Demo
 
-TO DO
+![GIF 8-12-2024 5-49-54 AM](https://github.com/user-attachments/assets/d11bc902-ee08-47dc-86bd-5a7b427f8dd0)
 
 ## Features  
 
